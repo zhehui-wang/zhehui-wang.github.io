@@ -61,6 +61,8 @@
          opacity: 1;
     }
 }
+
+
  @-webkit-keyframes animateleft {
      from {
          left: -300px;
@@ -110,9 +112,7 @@
 	 
 }
  .w3-animate-left {
-     position: relative;
-     -webkit-animation: animateleft 0.3s;
-     animation: animateleft 0.3s;
+     
 }
  .w3-sidenav a, .w3-sidenav h4 {
      font-weight: 700;
@@ -133,6 +133,9 @@
      position: fixed !important;
      z-index: 4;
      height: 100%;
+	 position: relative;
+     -webkit-animation: animateleft 0.3s;
+     animation: animateleft 0.3s;
 }
  .w3-sidenav a {
      padding: 0px 2px 4px 16px;
