@@ -107,7 +107,7 @@
      background-color: rgba(0,0,0,0.5);
      z-index: 3;
      cursor: pointer;
-	  pointer-events: none;
+	 
 }
  .w3-animate-left {
      position: relative;
@@ -177,7 +177,8 @@
  .button-nav{
      font-size: 30px !important;
      background : #d1d1d1;
-     margin-top: 324px;
+	 
+     margin-top: 325px;
      height : 150px;
      width : 1.0em;
      color: #000000;
