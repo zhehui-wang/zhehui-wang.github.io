@@ -107,6 +107,7 @@
      background-color: rgba(0,0,0,0.5);
      z-index: 3;
      cursor: pointer;
+	  pointer-events: none;
 }
  .w3-animate-left {
      position: relative;
