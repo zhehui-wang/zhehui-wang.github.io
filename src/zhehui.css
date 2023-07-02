@@ -87,6 +87,15 @@ html {
     opacity: 1;
   }
 }
+
+.notouch{
+	
+	
+	pointer-events: none;
+	
+	
+}
+
 .webcontent{
   color: #000 !important;
   background-color: #f1f1f1 !important;
