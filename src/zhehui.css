@@ -144,13 +144,17 @@ html {
   text-decoration: none !important;
 }
 
-.sidenav a:hover {
-  background-color: #ccc;
-}
+
 
 .sidenav .nav li a {
   padding: 8px 16px !important;
 }
+
+.sidenav .nav li a:hover {
+  background-color: #ccc;
+}
+
+
 
 .sidenav p {
   padding-left: 12px;
@@ -212,8 +216,7 @@ html {
   border-radius: 0 16px 16px 0;
 }
 
-.list-group-item.active,
-.list-group-item.active:hover {
+.list-group-item.active {
   background-color: #f1f1f1;
   color: #009688;
 }
