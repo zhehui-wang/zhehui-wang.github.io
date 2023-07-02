@@ -111,9 +111,7 @@
      cursor: pointer;
 	 
 }
- .w3-animate-left {
-     
-}
+
  .w3-sidenav a, .w3-sidenav h4 {
      font-weight: 700;
      text-decoration: underline;
@@ -204,7 +202,8 @@
      z-index: 3;
      border-radius: 0 16px 16px 0;
 }
- .list-group-item.active, .list-group-item.active:hover {
+
+ .list-group-item.active:hover {
      background-color: #f1f1f1;
      color: #009688;
 }
