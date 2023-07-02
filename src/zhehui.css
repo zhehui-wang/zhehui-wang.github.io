@@ -89,7 +89,7 @@ html {
 }
 
 .notouch{
-	background: #000;
+	background-color: #000;
 	pointer-events: none;
 	
 	
