@@ -1,5 +1,5 @@
 var zhehui = [
-      {
+    {
       "type": "Journal",
       "title": "Optimizing for In-memory Deep Learning with Emerging Memory Technology ",
       "author": "Zhehui Wang, Tao Luo, Rick Siow Mong Goh, Wei Zhang, Weng-Fai Wong;", 
