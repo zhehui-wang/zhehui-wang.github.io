@@ -89,15 +89,8 @@ html {
 }
 
 .notouch{
-	background-color: #000;
-	pointer-events: none !important;
 	
-	
-}
-
-.notouch2{
-
-	pointer-events: none !important;
+	pointer-events: none;
 	
 	
 }
