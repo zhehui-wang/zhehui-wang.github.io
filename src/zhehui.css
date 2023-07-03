@@ -90,7 +90,7 @@ html {
 
 .notouch{
 	background-color: #000;
-	pointer-events: none;
+	pointer-events: none !important;
 	
 	
 }
