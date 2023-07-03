@@ -88,12 +88,7 @@ html {
   }
 }
 
-.notouch{
-	
-	pointer-events: none;
-	
-	
-}
+
 
 .webcontent{
   color: #000 !important;
