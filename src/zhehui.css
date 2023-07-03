@@ -95,6 +95,13 @@ html {
 	
 }
 
+.notouch2{
+
+	pointer-events: none !important;
+	
+	
+}
+
 .webcontent{
   color: #000 !important;
   background-color: #f1f1f1 !important;
