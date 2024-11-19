@@ -1,7 +1,16 @@
 var zhehui = [
+     {
+      "type": "Journal",
+      "title": "Enabling Energy-Efficient Deployment of Large Language Models on Memristor Crossbar: A Synergy of Large and Small",
+      "author": "Zhehui Wang, Tao Luo, Cheng Liu, Weichen Liu, Rick Siow Mong Goh, Weng-Fai Wong;", 
+      "source": "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)",
+      "info": "accepted, 2024",
+      "abstract": "Large language models (LLMs) have garnered substantial attention due to their promising applications in diverse domains. Nevertheless, the increasing size of LLMs comes with a significant surge in the computational requirements for training and deployment. Memristor crossbars have emerged as a promising solution, which demonstrated a small footprint and remarkably high energy efficiency in computer vision (CV) models. Memristors possess higher density compared to conventional memory technologies, making them highly suitable for effectively managing the extreme model size associated with LLMs. However, deploying LLMs on memristor crossbars faces three major challenges. Firstly, the size of LLMs increases rapidly, already surpassing the capabilities of state-of-the-art memristor chips. Secondly, LLMs often incorporate multi-head attention blocks, which involve non-weight stationary multiplications that traditional memristor crossbars cannot support. Third, while memristor crossbars excel at performing linear operations, they are not capable of executing complex nonlinear operations in LLM such as softmax and layer normalization. To address these challenges, we present a novel architecture for the memristor crossbar that enables the deployment of state-of-the-art LLM on a single chip or package, eliminating the energy and time inefficiencies associated with off-chip communication. Our testing on BERT Large showed negligible accuracy loss. Compared to traditional memristor crossbars, our architecture achieves enhancements of up to 39× in area overhead and 18× in energy consumption. Compared to modern TPU/GPU systems, our architecture demonstrates at least a 68× reduction in the area-delay product and a significant 69% energy consumption reduction.",
+      "bibtex": " "
+    },    
     {
       "type": "Journal",
-      "title": "Optimizing for In-memory Deep Learning with Emerging Memory Technology ",
+      "title": "Optimizing for In-memory Deep Learning with Emerging Memory Technology",
       "author": "Zhehui Wang, Tao Luo, Rick Siow Mong Goh, Wei Zhang, Weng-Fai Wong;", 
       "source": "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)",
       "info": "accepted, 2023",
